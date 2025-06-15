@@ -7,6 +7,9 @@
 # 3. ZERO PCB
 # 4. DC WATER PUMP
 
+[project ppt.pptx](https://github.com/user-attachments/files/20747122/project.ppt.pptx)
+https://github.com/user-attachments/assets/77bd57eb-1bde-4283-b29b-a245bae3345f
+
 Smart Tap
 
 The Smart Tap is a modern solution designed to enable convenient, hygienic, and water-saving control of water flow. This project utilizes simple electronic components, including an Infrared Sensor, 1k Resistor, Zero PCB, and a DC Water Pump, to create a fully automated water tap that operates without physical contact. This makes it especially useful in bathrooms, kitchens, and other places where reducing the chance of spreading germs is a priority.
